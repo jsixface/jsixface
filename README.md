@@ -1,4 +1,5 @@
-# 👋 Hello World. I'm Arumugam Jeganathan
+## 👋 Hello World. 
+# I'm Arumugam Jeganathan (Aru)
 Backend Engineer | Kotlin Enthusiast | Open Source Contributor
 
 > *"Code Tells You How, Comments Tell You Why"* -  Jeff Atwood
