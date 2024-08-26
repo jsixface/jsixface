@@ -1,5 +1,4 @@
-## 👋 Hello World. 
-# I'm Arumugam Jeganathan (Aru)
+# 👋 Hello World... I'm Aru
 Backend Engineer | Kotlin Enthusiast | Open Source Contributor
 
 > *"Code Tells You How, Comments Tell You Why"* -  Jeff Atwood
@@ -8,15 +7,7 @@ Backend Engineer | Kotlin Enthusiast | Open Source Contributor
 
 I'm passionate about crafting efficient software solutions, particularly with Kotlin in backend development, cloud technologies and recently UI with Compose Multiplatform. With a knack for problem-solving and a love for clean code, I'm always exploring new ways to push the boundaries of what's possible in tech.
 
-
-## 📫 Let's Connect
-I currently work at this awesome company, [Bevi](https://bevi.co) as a Senior Software Engineer. 
-
-You can find my professional profile and contact details on Linkedin, or explore more about my projects through my repos. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsixface/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@arumugam.net)
-
+I currently work at this awesome company, [Bevi](https://bevi.co) as a Senior Software Engineer. For more info, check out my LinkedIn, details below.
 
 
 ## 🛠️ Skills
@@ -35,6 +26,8 @@ You can find my professional profile and contact details on Linkedin, or explore
 
 ### [Quillpad](https://github.com/quillpad/quillpad)
 An open-source markdown note-taking app with a focus on privacy with features like task lists, reminders, and file attachments. I've been maintaining this project for the past 2 years, handling merges, releases, and bug fixes.
+ 
+ - I'm actively looking for co-maintainers for this project who is capable of reviewing and maintaining Android Kotlin code. Get in touch if you're interested.
 
 ### [CodeXvert](https://github.com/jsixface/codexvert)
 A modern, multi-platform video library management and transcoding application built with Kotlin Multiplatform. It supports various video formats and codecs, offering an intuitive interface for organizing and converting your media files.
@@ -48,5 +41,11 @@ A Java library that simplifies reading YAML configuration files using dotted not
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsixface&theme=shadow_blue&layout=compact)
 
+## 📫 Let's Connect
+
+You can find my professional profile and contact details on Linkedin, or explore more about my projects through my repos. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsixface/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@arumugam.net)
 
 
