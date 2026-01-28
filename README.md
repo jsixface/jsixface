@@ -1,13 +1,11 @@
 # 👋 Hello World... I'm Aru
-Backend Engineer | Kotlin Enthusiast | Open Source Contributor
-
-> *"Code Tells You How, Comments Tell You Why"* -  Jeff Atwood
+Backend Engineer | Kotlin Enthusiast | Linux Aficionado | Open Source Contributor
 
 ## 🚀 About Me
 
-I'm passionate about crafting efficient software solutions, particularly with Kotlin in backend development, cloud technologies and recently UI with Compose Multiplatform. With a knack for problem-solving and a love for clean code, I'm always exploring new ways to push the boundaries of what's possible in tech.
+I'm passionate about crafting efficient software solutions. I have 10+ years of **Java** and 5+ years of **Kotlin** experience in backend development, cloud technologies and recently UI with Compose Multiplatform. With a knack for problem-solving and a love for clean code, I'm always exploring new ways to push the boundaries of what's possible in tech. 
 
-I currently work at this awesome company, [Bevi](https://bevi.co) as a Senior Software Engineer. For more info, check out my LinkedIn, details below.
+I currently work at [Intuit](https://intuit.com) and before that at [Bevi](https://bevi.co) as a Senior Software Engineer. For more info, check out my [LinkedIn](https://www.linkedin.com/in/jsixface/), details below.
 
 
 ## 🛠️ Skills
