@@ -23,9 +23,7 @@ I currently work at [Intuit](https://intuit.com) and before that at [Bevi](https
 ## 🌟 Highlighted Projects
 
 ### [Quillpad](https://github.com/quillpad/quillpad)
-An open-source markdown note-taking app with a focus on privacy with features like task lists, reminders, and file attachments. I've been maintaining this project for the past 2 years, handling merges, releases, and bug fixes.
- 
- - I'm actively looking for co-maintainers for this project who is capable of reviewing and maintaining Android Kotlin code. Get in touch if you're interested.
+An open-source markdown note-taking app with a focus on privacy with features like task lists, reminders, and file attachments. I've been maintaining this project for the past 3 years, handling merges, releases, improvements and bug fixes.
 
 ### [CodeXvert](https://github.com/jsixface/codexvert)
 A modern, multi-platform video library management and transcoding application built with Kotlin Multiplatform. It supports various video formats and codecs, offering an intuitive interface for organizing and converting your media files.
