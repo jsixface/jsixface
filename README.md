@@ -8,6 +8,10 @@ I'm passionate about crafting efficient software solutions. I have 10+ years of 
 I currently work at [Intuit](https://intuit.com) and before that at [Bevi](https://bevi.co) as a Senior Software Engineer. For more info, check out my [LinkedIn](https://www.linkedin.com/in/jsixface/), details below.
 
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsixface/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@arumugam.net)
+
+
 ## 🛠️ Skills
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -25,23 +29,13 @@ I currently work at [Intuit](https://intuit.com) and before that at [Bevi](https
 ### [Quillpad](https://github.com/quillpad/quillpad)
 An open-source markdown note-taking app with a focus on privacy with features like task lists, reminders, and file attachments. I've been maintaining this project for the past 3 years, handling merges, releases, improvements and bug fixes.
 
+### [D-Dash](https://github.com/jsixface/ddash)
+DDash is a lightweight, self-hosted dashboard and automatic reverse-proxy manager for Docker containers. It is designed to work seamlessly with Caddy, automatically discovering containers and configuring routes based on Docker labels.
+
 ### [CodeXvert](https://github.com/jsixface/codexvert)
 A modern, multi-platform video library management and transcoding application built with Kotlin Multiplatform. It supports various video formats and codecs, offering an intuitive interface for organizing and converting your media files.
 
 ### [YamlConfig](https://github.com/jsixface/yamlconfig)
 A Java library that simplifies reading YAML configuration files using dotted notation. It leverages SnakeYAML for parsing and provides an easy-to-use interface for accessing hierarchical configuration properties.
-
-## 📈 GitHub Stats
-
-![Arumugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsixface&show_icons=true&theme=shadow_blue&include_all_commits=true&rank_icon=percentile&hide=contribs) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsixface&theme=shadow_blue&layout=compact)
-
-## 📫 Let's Connect
-
-You can find my professional profile and contact details on Linkedin, or explore more about my projects through my repos. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsixface/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@arumugam.net)
 
 
